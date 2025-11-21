@@ -1712,7 +1712,7 @@ body.is-preload #header {
 	position: relative;
 	width: 100%;
 	min-height: 100vh;
-	background-image: url('../../images/fulls/landing.jpg');
+	background-image: url('images/fulls/landing.jpg');
 	background-size: cover;
 	background-position: center;
 }
